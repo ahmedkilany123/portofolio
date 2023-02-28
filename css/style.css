@@ -188,7 +188,7 @@ header nav a:hover  {
     .landing h3 {
         font-size: 20px;    
     }
-    .landing a {
+    .landing div .btn {
         font-size: 15px;
         font-weight: 600;
     }
