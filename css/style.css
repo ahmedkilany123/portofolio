@@ -50,7 +50,7 @@ header {
 }
 @media (max-width: 991px) {
     header {
-        padding: 10px 20px;
+        padding: 10px 10px;
     }
 }
 header .logo  {
@@ -80,11 +80,11 @@ header nav a {
 }
 @media (max-width: 768px) {
     header .logo {
-        font-size: 15px;
+        font-size: 14px;
     }
     header nav a {
         font-size: 10px;
-        font-weight: 600;
+        font-weight: 500;
     }
 }
 header nav a:hover  {
