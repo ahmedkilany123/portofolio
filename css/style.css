@@ -395,6 +395,12 @@ footer {
     justify-content: space-between;
     padding: 20px;
 }
+@media (max-width:768px)
+{
+    footer {
+        padding: 20px 0;
+    }
+}
 footer  p {
     color: white;
     font-size: 22px;
